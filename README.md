@@ -5,9 +5,20 @@ Fazendo o download do arquivo ContosoRetailDW.bak e anexando-o no SQL Server, é
 <br><br>
 
 ## Análise exploratória no banco de dados
-<img align="right" width="500"  src="https://github.com/MateusQuina/ProjetoClientes01/blob/main/Imagens/SQL%2003.png?raw=true">
+<img align="right" width="400"  src="https://github.com/MateusQuina/ProjetoClientes01/blob/main/Imagens/SQL%2003.png?raw=true">
 Iniciamos o projeto entendendo cada objeto, tabela, campo, tipos de dados e relacionamentos do modelo de dados ContosoRetailDW. Após identificar as tabelas e entender como elas se relacionavam, iniciei as primeiras análises, utilizei primeiramente o campo de clientes e vendas e então desenvolvi os scripts em SQL para explorar os dados e extrair os primeiros insights. Como por exemplo: <br><br>
 - Clientes com os maiores valores de venda <br>
 - Em quais regiões estes clientes estvam <br>
 - Produtos mais comprados por estes clientes <br>
 <br><br>
+<a href="https://github.com/MateusQuina/ProjetoClientes01/blob/main/SQL/Querys.sql" target="_blank">Clique aqui</a> e acesse o script SQL no Github.
+
+
+<br><br>
+<br><br>
+<br><br>
+## Análise exploratória com inteligência temporal
+
+  <img align="left" width="500"  src="https://github.com/MateusQuina/ProjetoClientes01/blob/main/Imagens/SQL%2002.png?raw=true">
+  <img align="left" width="450"  src="https://github.com/MateusQuina/ProjetoClientes01/blob/main/Imagens/SQL%2001.png?raw=true">
+Para realizar a análise 
