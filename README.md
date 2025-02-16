@@ -20,5 +20,7 @@ Iniciamos o projeto entendendo cada objeto, tabela, campo, tipos de dados e rela
 ## Análise exploratória com inteligência temporal
 
   <img align="left" width="500"  src="https://github.com/MateusQuina/ProjetoClientes01/blob/main/Imagens/SQL%2002.png?raw=true">
-  <img align="left" width="450"  src="https://github.com/MateusQuina/ProjetoClientes01/blob/main/Imagens/SQL%2001.png?raw=true">
-Para realizar a análise 
+  <img align="left" width="500"  src="https://github.com/MateusQuina/ProjetoClientes01/blob/main/Imagens/SQL%2001.png?raw=true">
+Após realizar as primeiras análises no SQL, iniciei na análise temporal que consiste em analisar dados e compara-los em contextos temporais diferentes, por exemplo, venda deste mês contra o mês passado, (MoM), vendas deste mês com o mesmo meês do ano passado etc. <br>
+
+Para esta análise iniciei agrupando o valor das vendas por cada mês para ja identificar possiveis tendências no decorrer do tempo. Em seguida realizei uma CTE para extrair a informação das vendas do mesmo passado para o mesmo contexto das vendas atuais, tornando possivel assim a comparação entre os periodos. A CTE (Common Table Expression) é utilizada para criar consultas temporarias, deixando o codigo mais otimizado e organizado. Porém para este projeto não é a unica forma de realizar esta análise.
