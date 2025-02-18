@@ -61,4 +61,30 @@ Qual a necessidade de uma boa estruturação e modelagem dos dados: <br>
 
 <img align="left" width="500"  src="https://github.com/MateusQuina/ProjetoClientes01/blob/main/Imagens/Dashboad02.png?raw=true">
 
-Após a análise de estruturação, modelagem e tambem de tratamento dos dados no power query, finalmente iniciei as análises com DAX, e a criação de gráficos interativos que possibilitam uma interação maior do cliente com os dados.
+Após a etapa de estruturação, modelagem e tambem de tratamento dos dados no power query, finalmente iniciei as análises com DAX, e a criação de gráficos interativos que possibilitam uma maior interação do cliente com os dados.
+Iniciei trazendo alguns indicadores fundamentais como o total das vendas, o custo total, a margem de lucro, o ticket médio de clientes e a quatidade de vendas realizadas, para que assim, com esses indicadores o gestão ja possa ter um panorama geral da situação da empresa.<br>
+Ainhado aos indicadores, através de medidas dax, criei um gráfico indicando os 3 maiores clientes por valores de vendas, um grafico trazendo a região com mais clientes e com maiores valores de vendas e tambem trouxe um grafico informando qual a porcentagem dos tipos de clientes que a empresa atende. Com esses gráficos podemos tomar as seguintes conclusões:
+- A região da América do Norte concentra a maior parte dos clientes da empresa;
+- quase 75% destes clientes são outras empresas;<br>
+
+Com essas informações os gestores podem tomar decisões mais acertivas, como por exemplo:
+- Maiores incentivos na região da Amrérca do Norte, ou análisar qual a diferenã desta região para as demais, e aplicar está diferença nas outras regiões, buscando aumentar tambem as vendas nas demais regiões;
+- Criação de promoções, ou estrátegias que fidelizam ainda mais empresas, ou aplicar mais esforços nos clientes pf. <br>
+
+Além destas análises realizei tambem a criação de gráficos para análisar as vendas no decorrer do tempo. Por meio destas análises podemos concluir que:
+- As vendas aumentam no meio do ano, mais precisamente no mês de julho;
+- Enquanto as vendas para outras empresas se mantém, as vendas para clientes do tipo pessoas vem em uma tendência de declínio.<br>
+
+Estas foram algumas das análises que são possiveis de realizar através deste dashboard.
+
+## Página Drill Through
+
+  <img align="right" width="500"  src="https://github.com/MateusQuina/ProjetoClientes01/blob/main/Imagens/Drill-through.png?raw=true">
+
+Para facilitar a validação de informações, e auxiliar na análise dos dados por parte de gestões e clientes que irão utilizar este relatório, criei uma pagina drill through.
+
+A página Drill Through no Power BI é uma funcionalidade que permite aos usuários navegar de um relatório mais geral para uma página detalhada, focada em um contexto específico. Isso significa que, ao selecionar um determinado elemento em um relatório (como uma categoria de produto, um cliente ou uma região), o usuário pode ser direcionado automaticamente para outra página que exibe informações mais detalhadas sobre essa seleção
+
+
+
+
