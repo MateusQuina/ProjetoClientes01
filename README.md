@@ -75,15 +75,39 @@ Além destas análises realizei tambem a criação de gráficos para análisar a
 - As vendas aumentam no meio do ano, mais precisamente no mês de julho;
 - Enquanto as vendas para outras empresas se mantém, as vendas para clientes do tipo pessoas vem em uma tendência de declínio.<br>
 
-Estas foram algumas das análises que são possiveis de realizar através deste dashboard.
+Estas foram algumas das análises que são possiveis de realizar através deste dashboard.<br>
+<br><br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiN2RlNjcxODUtZDQ2NC00YWMzLWI0OGUtNGE4N2M4ODc3YTAzIiwidCI6IjUwZTI0ZTMwLWQyM2QtNDhkOC05NGQ0LWNkNmMzYTI2ODU0OCJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 
-## Página Drill Through
+## Página Drill through
 
   <img align="right" width="500"  src="https://github.com/MateusQuina/ProjetoClientes01/blob/main/Imagens/Drill-through.png?raw=true">
 
 Para facilitar a validação de informações, e auxiliar na análise dos dados por parte de gestões e clientes que irão utilizar este relatório, criei uma pagina drill through.
 
-A página Drill Through no Power BI é uma funcionalidade que permite aos usuários navegar de um relatório mais geral para uma página detalhada, focada em um contexto específico. Isso significa que, ao selecionar um determinado elemento em um relatório (como uma categoria de produto, um cliente ou uma região), o usuário pode ser direcionado automaticamente para outra página que exibe informações mais detalhadas sobre essa seleção
+A página Drill Through no Power BI é uma funcionalidade que permite aos usuários navegar de um relatório mais geral para uma página detalhada, focada em um contexto específico. Isso significa que, ao selecionar um determinado elemento em um relatório (como uma categoria de produto, um cliente ou uma região), o usuário pode ser direcionado automaticamente para outra página que exibe informações mais detalhadas sobre essa seleção. <br>
+
+<br>
+
+## Tooltip
+
+  <img align="left" width="350"  src="https://github.com/MateusQuina/ProjetoClientes01/blob/main/Imagens/tt_01%20(Detalhes%20do%20cliente).png?raw=true">
+  <img align="left" width="350"  src="https://github.com/MateusQuina/ProjetoClientes01/blob/main/Imagens/tt_02%20(detalhes%20do%20produto).png?raw=true">
+
+  Alinhado ao Drill Through, elaborei tambem as Tooltips ou dicas de ferramentas. As tooltips são dicas visuais que aparecem quando você passa o mouse sobre um elemento do relatório, fornecendo informações adicionais. 
+  Qual a importância dessas dicas de ferramentas?
+  - Elas possibilitam que informações relevantes sejam compreendias de maneira mais facil;
+  - Possibilita dar foco em dados que precisam ser mais observados;
+<br><br>
+
+## Ferramentas e linguagens utilizadas
+<div style="display: inline_block">
+    <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
+    <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
+</div>
+
+
+
 
 
 
