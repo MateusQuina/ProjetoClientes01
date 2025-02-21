@@ -36,8 +36,6 @@ Com a CTE criada realizei o particionamento por ano e ordenamento por mês, mont
 <br><br>
 <br><br>
 <br><br>
-<br><br>
-<br><br>
 ## Conclusão técnica SQL
 
 Com o SQL, podemos analisar, extrair, manipular e exibir os dados direto de uma base de dados de uma forma simples e rápida, apenas conectando na fonte dos dados. Porém, não é uma ferramenta dinâmica, pois cada vez que pricisar ver os dados de uma forma diferente, precisaria reescrever o comando SQL para extrair os dados da forma que gostaria, porem os dados sempre serão exibidos em formato de tabela, deixando sua análise menos dinâmica do que um dashboard, por exemplo.
