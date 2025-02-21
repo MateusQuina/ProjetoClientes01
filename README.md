@@ -89,8 +89,10 @@ A página Drill Through no Power BI é uma funcionalidade que permite aos usuár
 
 ## Tooltip
 
-  <img align="left" width="350"  src="https://github.com/MateusQuina/ProjetoClientes01/blob/main/Imagens/tt_01%20(Detalhes%20do%20cliente).png?raw=true">
-  <img align="right" width="350"  src="https://github.com/MateusQuina/ProjetoClientes01/blob/main/Imagens/tt_02%20(detalhes%20do%20produto).png?raw=true">
+  <img align="left" width="400"  src="https://github.com/MateusQuina/ProjetoClientes01/blob/main/Imagens/tt_01%20(Detalhes%20do%20cliente).png?raw=true">
+  <img align="right" width="400"  src="https://github.com/MateusQuina/ProjetoClientes01/blob/main/Imagens/tt_02%20(detalhes%20do%20produto).png?raw=true">
+<br><br>
+<br><br>
 <br><br>
 <br><br>
 <br><br>
